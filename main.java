@@ -79,10 +79,10 @@ public class main{
         System.out.println("toString is called for pt :" + pt.toString());// output toString is called for pt :Staff name is: Default name
 
 
-        System.out.println("equals on p with pe :" + p.equals(pe));
-        System.out.println("equals on p with ps :" + p.equals(ps));
-        System.out.println("equals on p with pf :" + p.equals(pf));
-        System.out.println("equals on p with pt :" + p.equals(pt));
+        System.out.println("equals on p with pe :" + p.equals(pe)); // output equals on p with pe :false 
+        System.out.println("equals on p with ps :" + p.equals(ps)); // output equals on p with ps :false
+        System.out.println("equals on p with pf :" + p.equals(pf)); // output equals on p with pf :false
+        System.out.println("equals on p with pt :" + p.equals(pt)); // output equals on p with pt :false
 
     
     }       
